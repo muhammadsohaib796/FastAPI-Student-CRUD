@@ -1,0 +1,72 @@
+{
+    "101": {
+        "name": "Ali",
+        "department": "CS",
+        "semester": 3,
+        "gpa": 3.8,
+        "is_scholarship": true
+    },
+    "102": {
+        "name": "Sara",
+        "department": "EE",
+        "semester": 5,
+        "gpa": 3.2,
+        "is_scholarship": false
+    },
+    "103": {
+        "name": "Bilal",
+        "department": "CS",
+        "semester": 3,
+        "gpa": 2.9,
+        "is_scholarship": false
+    },
+    "104": {
+        "name": "Ayesha",
+        "department": "SE",
+        "semester": 7,
+        "gpa": 3.9,
+        "is_scholarship": true
+    },
+    "105": {
+        "name": "Hassan",
+        "department": "EE",
+        "semester": 5,
+        "gpa": 3.5,
+        "is_scholarship": true
+    },
+    "106": {
+        "name": "Fatima",
+        "department": "SE",
+        "semester": 1,
+        "gpa": 3.6,
+        "is_scholarship": false
+    },
+    "107": {
+        "name": "Anamta",
+        "department": "CS",
+        "gpa": 3.8,
+        "is_scholrship": false,
+        "semester": 7
+    },
+    "108": {
+        "name": "Zara",
+        "department": "EE",
+        "semester": 3,
+        "gpa": 3.95,
+        "is_scholarship": true
+    },
+    "109": {
+        "name": "Muhammad Sohaib",
+        "department": "AI",
+        "gpa": 3.5,
+        "is_scholrship": false,
+        "semester": 5
+    },
+    "110": {
+        "name": "Tabish",
+        "department": "CS",
+        "gpa": 3.1,
+        "is_scholrship": true,
+        "semester": 1
+    }
+}
