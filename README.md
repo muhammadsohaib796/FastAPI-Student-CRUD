@@ -27,3 +27,4 @@ uvicorn pydantic_json_crud:app --reload
 Started with `main.py` (basic CRUD, no validation), then built
 `pydantic_json_crud.py` (added Pydantic models, Field validation,
 and HTTPException error handling).
+
