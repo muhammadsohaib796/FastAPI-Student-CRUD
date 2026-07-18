@@ -74,6 +74,7 @@ def delete_student(roll):
 
     delete_student = data.pop(roll)
     save_data(data)
+
     return{
         "message":"Student deleted succcessfully!!",
         "status":"200",
